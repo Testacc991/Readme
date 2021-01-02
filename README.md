@@ -1,8 +1,6 @@
-<h2 align="left">Hi 👋🏻</h2>  
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Testacc991&show_icons=true" alt="Testacc991" /> </p>
 
-<p align="left">Social Media 🔗:
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Testacc991)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Testacc991)
